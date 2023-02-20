@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: Pipeline_LabelEncoder
+Version: 0.1
+Summary: Modified Scikit-Learn Label Encoder to fit in pipeline 
+Home-page: UNKNOWN
+Author: IBM
+Author-email: ibm@ibm.com
+License: IBM
+Description: UNKNOWN
+Platform: UNKNOWN

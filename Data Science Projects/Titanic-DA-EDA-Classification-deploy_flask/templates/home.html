@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <meta charet="utf-8">
+        <title>Iris</title> 
+    </head>
+
+    <body  bgcolor="#8a2be2">
+      <center>
+    <h1> Iris Detection</h1>
+
+    <form action="{{url_for('predict')}}" method="post">
+        <input type="text" name="Pclass" placeholder="enter here Pclass">
+        <input type="text" name="Sex" placeholder="enter here Sex">
+        <input type="text" name="Age" placeholder="enter here Age">
+        <input type="text" name="Family Members" placeholder="enter here Family Members">
+        <input type="text" name="Embarked" placeholder="enter here Embarked">
+        <input type="text" name="Fare Category" placeholder="enter here Fare Category">
+        <input type="submit" value="Submit">
+    </form>
+    
+      </center>
+    </body>
+
+</html>

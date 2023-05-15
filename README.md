@@ -1,2 +1,8 @@
 # Data-Science-Projects
-A repo that contains data science projects in many fields of {data, science, techniques, domain knowledge and tools}. 
+A repo that contains data science and data analysis projects in many fields using many tools
+like:
+-python
+-Excel
+-Alteryx
+-Power BI
+
